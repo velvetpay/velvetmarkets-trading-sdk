@@ -44,3 +44,14 @@ Broker credentials and customer secrets remain under the integrating developer's
 VelvetMarkets Trading SDK
 
 Velvet Technologies
+
+## Pricing
+
+| Plan | Price | Intended use |
+|---|---:|---|
+| Sandbox | Free | Development and evaluation |
+| Trading SDK | £499/year | Commercial use in one application |
+| Trading SDK Pro | £999/year | Advanced integration and broker workflows |
+| Enterprise | Custom | Multi-app, white-label and bespoke requirements |
+
+See [PRICING.md](./PRICING.md) for full licensing details.
